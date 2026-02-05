@@ -73,7 +73,7 @@ with st.sidebar:
 
 # Remplacement par ton URL de photo de profil LinkedIn (ou une image locale)
 # Astuce : Pour obtenir ton URL LinkedIn directe, fais un clic droit sur ta photo LinkedIn > "Copier l'adresse de l'image"
-    photo_url = "https://media.licdn.com/dms/image/v2/D4E35AQFpz3SBkXSNfQ/profile-framedphoto-shrink_800_800/B4EZsImXWkHUAg-/0/1765375833815?e=1770904800&v=beta&t=H6l9pt9bPBY4Wk0agCbgtZdTTXfuTZKSNrsHPBgMfU4" 
+    photo_url = "https://media.licdn.com/dms/image/v2/D4E03AQG_Qv_Qv_Qv_Q/profile-displayphoto-shrink_400_400/..." 
 
     st.sidebar.markdown(f"""
     <div style="text-align: center;">
