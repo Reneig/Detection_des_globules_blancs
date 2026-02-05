@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --hidden-import=PyQt5.QtCore --hidden-import=PyQt5.QtGui --hidden-import=PyQt5.QtWidgets --hidden-import=tensorflow --hidden-import=keras App_WBC.py

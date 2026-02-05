@@ -1,0 +1,7 @@
+ipykernel==6.29.5
+numpy==1.26.4
+pillow==11.1.0
+labelme==5.6.0
+tensorflow==2.14.0
+opencv-python==4.10.0.84
+matplotlib==3.10.0

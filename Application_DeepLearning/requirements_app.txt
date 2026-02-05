@@ -1,0 +1,6 @@
+PyQt5==5.15.11
+numpy==1.26.4
+tensorflow==2.14.0
+opencv-python==4.10.0.84
+pillow==11.1.0
+pyinstaller==5.13.2
